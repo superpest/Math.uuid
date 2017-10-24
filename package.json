@@ -1,0 +1,12 @@
+{
+    "scripts":{
+        "release":"fis3 release -d ./",
+        "dev":"fis3 server start & fis3 release -wL" ,
+    },
+  "dependencies": {
+    "jquery": "^2.2.4"
+  },
+  "devDependencies": {
+    "fis3": "^3.4.36"
+  }
+}
