@@ -1,8 +1,8 @@
 {
-    "scripts":{
-        "release":"fis3 release -d ./",
-        "dev":"fis3 server start & fis3 release -wL" ,
-    },
+  "scripts":{
+    "release":"fis3 release -d ./",
+    "dev":"fis3 server start & fis3 release -wL" 
+  },
   "dependencies": {
     "jquery": "^2.2.4"
   },
