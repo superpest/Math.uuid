@@ -1,12 +1,19 @@
 {
-  "scripts":{
-    "release":"fis3 release -d ./",
-    "dev":"fis3 server start & fis3 release -wL" 
+  "name": "math.uuid",
+  "version": "1.4",
+  "description": "",
+  "main": "Math.uuid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "jquery": "^2.2.4"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superpest/Math.uuid.git"
   },
-  "devDependencies": {
-    "fis3": "^3.4.36"
-  }
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superpest/Math.uuid/issues"
+  },
+  "homepage": "https://github.com/superpest/Math.uuid#readme"
 }
