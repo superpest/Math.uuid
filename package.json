@@ -1,6 +1,6 @@
 {
   "name": "math.uuid",
-  "version": "1.4",
+  "version": "1.4.0",
   "description": "",
   "main": "Math.uuid.js",
   "scripts": {
